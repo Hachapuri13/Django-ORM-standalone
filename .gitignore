@@ -1,1 +1,6 @@
 .env
+.replit
+pyproject.toml
+poetry.lock
+__pycache__/
+*.pyc
