@@ -23,7 +23,10 @@ pip install -r requirements.txt
 ```
 ![Изображение как скачать нужные библиотеки](https://files.catbox.moe/0wy9vf.png "скачивание библиотек")
 
-*Для запуска кода введите в консоль -* `python main.py`
+*Для запуска кода введите в консоль команду:* 
+```
+python main.py
+```
 
 ![Изображение как запустить программу](https://files.catbox.moe/em56c3.png "запуск файла main.py")
 
